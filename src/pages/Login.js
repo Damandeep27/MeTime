@@ -78,6 +78,9 @@ const Login = (props) => {
             <span>Don't have an account? <Link to='/register'>Register </Link></span>
             <button type="submit">Login</button>
         </form>
+           <a href='https://youtu.be/3e_SRXsk78s' isExternal>
+               <Button> Watch Demo</Button>
+            </a>
         </FormContainer>
         <StyledContainer />
         
