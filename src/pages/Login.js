@@ -79,7 +79,7 @@ const Login = (props) => {
             <button type="submit">Login</button>
         </form>
            <a href='https://youtu.be/3e_SRXsk78s' isExternal>
-               <Button> Watch Demo</Button>
+              Watch Demo
             </a>
         </FormContainer>
         <StyledContainer />
@@ -161,6 +161,10 @@ form{
         }
     }
 }
+a{
+color:white;
+text-transform:uppercase;
+font-weight:bold;
 
 
 `;
